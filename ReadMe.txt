@@ -1,6 +1,8 @@
 🚀 Web Tasarım Ajansı - Tek Sayfalı Web Sitesi (Ödev 5)
 Bu proje, bir web sitesi yapan şirketin dijital varlığını temsil eden, modern, şık ve tamamen responsive (duyarlı) bir "Landing Page" tasarımıdır. Projede yerleşim düzeni tamamen Flexbox kullanılarak oluşturulmuştur.
 
+Site linki: https://veyse1.github.io/Web-Project-5/
+
 📋 Proje Özellikleri
 Proje, ödev isterlerine uygun olarak aşağıdaki bölümlerden oluşmaktadır:
 
